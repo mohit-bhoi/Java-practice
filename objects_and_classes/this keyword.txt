@@ -1,0 +1,9 @@
+1) "This" keyword is special keyword in java, which is used to refer tthe current object in class.
+2) It's most common use is to eliminate the confusion/ambiguity between the same name of local variable and instance variables.
+
+
+Usage of 'this' keyword:
+1)Refer current class instance variable/method.
+2) invoke current class constructor.
+3) Returns current class instance.
+4) Pass current object in the method.
